@@ -1,1 +1,1 @@
-Welcome to our SCM Project.
+Welcome to SCM Project.
